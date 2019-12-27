@@ -1,2 +1,3 @@
-# vcore-profiles
-Slicer Profiles for the V-Core Printer
+# V-Core Profiles
+
+Slicer profiles for the V-Core 3D printer
