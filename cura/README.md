@@ -6,3 +6,4 @@
   the following settings seem to give me a super clean first layer: 
    * .44 line width
    * .2 initial layer height
+   * Nozzle not too low
